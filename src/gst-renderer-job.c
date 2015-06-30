@@ -6,6 +6,12 @@
 #define DEFAULT_HEIGHT 720
 #define DEFAULT_PIXEL_FORMAT "I420"
 
+/**
+ * SECTION: Introduction
+ *
+ * {{ introduction.markdown }}
+ */
+
 typedef struct _GstRendererJobPrivate
 {
   gchar *uri;

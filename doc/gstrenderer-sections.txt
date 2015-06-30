@@ -1,0 +1,26 @@
+<SECTIONS>
+  <SECTION>
+    <FILE>main</FILE>
+    <TITLE>Main</TITLE>
+    <SYMBOLS>
+</SYMBOLS>
+  </SECTION>
+  <SECTION>
+    <TITLE>Introduction</TITLE>
+    <SYMBOLS>
+  </SYMBOLS>
+  </SECTION>
+  <SECTION>
+    <FILE>gst-renderer-job</FILE>
+    <TITLE>GstRendererJob</TITLE>
+    <SYMBOLS>
+      <SYMBOL>GstRendererJob</SYMBOL>
+      <SYMBOL>GstRendererJobClass</SYMBOL>
+      <SYMBOL>gst_renderer_job_render_sync</SYMBOL>
+      <SYMBOL>gst_renderer_job_new_editing_proxy</SYMBOL>
+      <SYMBOL>gst_renderer_job_new_full</SYMBOL>
+      <SYMBOL>gst_renderer_job_new_simple</SYMBOL>
+      <SYMBOL>gst_renderer_job_new_youtube_full_hd</SYMBOL>
+    </SYMBOLS>
+  </SECTION>
+</SECTIONS>
