@@ -42,7 +42,7 @@ gst_renderer_video_format_get_type (void)
 /* Audio formats */
 
 static const GEnumValue audio_format_values[] = {
-  {C_ENUM (GST_RENDERER_AUDIO_FORMAT_MP3), "GST_RENDERER_AUDIO_FORMAT_MP3", "mp3-codec"},
+  {C_ENUM (GST_RENDERER_AUDIO_FORMAT_MP3), "GST_RENDERER_AUDIO_FORMAT_MP3", "mp3"},
   {C_ENUM (GST_RENDERER_AUDIO_FORMAT_VORBIS), "GST_RENDERER_AUDIO_FORMAT_VORBIS", "vorbis"},
   {C_ENUM (GST_RENDERER_AUDIO_FORMAT_AAC), "GST_RENDERER_AUDIO_FORMAT_AAC", "aac"},
   {0, NULL, NULL}
